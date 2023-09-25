@@ -24,7 +24,7 @@ jobs:
   get_current_step:
     name: Check current step number
     runs-on: ubuntu-latest
-    steps:
+    steps:You have to complete this step
       - name: Checkout
         uses: actions/checkout@v4
       - id: get_step
